@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Iftakhar0529
+- 👋 Hi, I’m Iftakhar 
 - 👀 I’m interested in 
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on building tech startups
